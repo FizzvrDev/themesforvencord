@@ -47,7 +47,7 @@
   --channel-unread: var(--main-color);
   --channel-color: rgba(245, 166, 255, 0.3);
   --channel-text-selected: #ffffff;
-  --muted-color: rgba(255, 255, 255, 0.1);
+  --muted-color: rgba(214, 198, 245, 0.58);
 
   /* Overlay colors */
   --backdrop-overlay: rgba(0, 0, 0, 0.8);
