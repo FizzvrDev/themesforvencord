@@ -1,0 +1,12 @@
+a[href="/shop"],
+a[href="/store"],
+a[href="/quests"] {
+  display: none !important;
+}
+
+a[href*="quests"],
+[aria-label="Quests"],
+[data-list-item-id*="quests"],
+[class*="privateChannels_"] a[href*="quests"],
+[class*="privateChannels_"] [aria-label="Quests"] {
+  display: none !important;
